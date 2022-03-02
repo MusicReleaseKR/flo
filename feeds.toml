@@ -1,0 +1,19 @@
+[newtrack]
+title = "FLO ─ New Track"
+url = "https://www.music-flo.com/new/track?sortType=KPOP"
+entrySelector = "table.track_list_table tbody tr"
+titleSelector = "p.tit span.tit__inner strong.tit__text"
+linkSelector = "div.desc a.desc__link"
+imageSelector = "div.thumb a img"
+contentSelector = "span.artist_link a.last"
+waitUntil = "networkidle"
+
+[newalbum]
+title = "FLO ─ New Album"
+url = "https://www.music-flo.com/new/album?sortType=KPOP"
+entrySelector = "ul.thumbnail_list.badge_thumbnail_list li"
+titleSelector = "p.title a"
+linkSelector = "a"
+imageSelector = "div[class='album_thumbnail'] a img"
+contentSelector = "p.artist"
+waitUntil = "networkidle"
