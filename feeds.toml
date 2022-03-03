@@ -17,3 +17,23 @@ linkSelector = "a"
 imageSelector = "div[class='album_thumbnail'] a img"
 contentSelector = "p.artist"
 waitUntil = "networkidle"
+
+[newalbum_kpop]
+title = "플로 ─ 최근 발매 음악 ─ 앨범 ─ 국내"
+url = "https://www.music-flo.com/new/album?sortType=KPOP"
+entrySelector = "ul.thumbnail_list.badge_thumbnail_list li"
+titleSelector = "p.title a"
+linkSelector = "a"
+imageSelector = "div[class='album_thumbnail'] a img"
+contentSelector = "p.artist"
+waitUntil = "networkidle"
+
+[newalbum_pop]
+title = "플로 ─ 최근 발매 음악 ─ 앨범 ─ 해외"
+url = "https://www.music-flo.com/new/album?sortType=POP"
+entrySelector = "ul.thumbnail_list.badge_thumbnail_list li"
+titleSelector = "p.title a"
+linkSelector = "a"
+imageSelector = "div[class='album_thumbnail'] a img"
+contentSelector = "p.artist"
+waitUntil = "networkidle"
