@@ -1,8 +1,811 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.music-flo.com/new/album?sortType=POP</id>
-    <title>플로 ─ 최근 발매 음악 ─ 앨범 ─ 해외</title>
-    <updated>2023-02-08T18:08:59.412Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.music-flo.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>플로 ─ 최근 발매 음악 ─ 앨범 ─ 해외</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Feb 2023 19:04:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[late night thoughts]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadilyhn/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadilyhn/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnledhn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#f9d656f19e#head--> shy martin <!--fragment#f9d656f19e#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/982/035/11/04/411035982_63d4c4bc_s.jpg?1674888382888/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LEGEND (Solo Piano Version)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaanhoyli/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaanhoyli/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdddihiy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#16f60451327#head--> John Legend <!--fragment#16f60451327#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/953/287/11/04/411287953_63e2fa5c_o.jpg?1675819612981/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antidote]]></title>
+            <link>https://www.music-flo.com/detail/album/eaanhoyll/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaanhoyll/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnhoean/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#156cb4f9a09#head--> Chiiild <!--fragment#156cb4f9a09#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/955/287/11/04/411287955_63e2f8f2_o.jpg?1675819251246/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ILYAF (I love you always forever)]]></title>
+            <link>https://www.music-flo.com/detail/album/eadyoydah/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eadyoydah/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/inhid/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#156782e084e#head--> Donna Lewis <!--fragment#156782e084e#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdnezann/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#4f767f70c3#head--> Digital Farm Animals <!--fragment#4f767f70c3#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/018/979/10/04/410979018_63da5623_o.jpg?1675253283827/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[You Don't Call Me Anymore]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanezoe/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanezoe/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hoaaidy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9b04659b22#head--> Sam Fischer <!--fragment#9b04659b22#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/674/124/11/04/411124674_63d26d0f_o.jpg?1674734864326/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Best Friend Ever]]></title>
+            <link>https://www.music-flo.com/detail/album/eaanaziez/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaanaziez/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnzzzoy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#546647aac8#head--> NCT DREAM <!--fragment#546647aac8#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/346/216/11/04/411216346_63dc9263_o.jpg?1675399780733/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Make Some Noise]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaddlze/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaddlze/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/zdahi/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#13455cc956f#head--> Benny Benassi <!--fragment#13455cc956f#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hddyeyhd/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#e43ebda503#head--> Chris Nasty <!--fragment#e43ebda503#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="2" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdneelzi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#15eb61218b1#head--> Constantin <!--fragment#15eb61218b1#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/564/100/11/04/411100564_63c798e7_o.jpg?1674025192027/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Made It]]></title>
+            <link>https://www.music-flo.com/detail/album/eaannoinz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaannoinz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ediohiyol/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13b89a331d6#head--> Tones And I <!--fragment#13b89a331d6#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/326/227/11/04/411227326_63dce4e5_o.jpg?1675420901967/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRUSH (stripped)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaohlyi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaohlyi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ededhohia/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ead047dcdc#head--> Zachary Knowles <!--fragment#ead047dcdc#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/593/178/11/04/411178593_63d9b26a_o.jpg?1675211370808/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boy's a liar Pt. 2]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadyydho/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadyydho/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edehizznl/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#3677068459#head--> PinkPantheress <!--fragment#3677068459#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edehhyozo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#132ad1174f1#head--> Ice Spice <!--fragment#132ad1174f1#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/087/099/11/04/411099087_63dd15ef_o.jpg?1675433459165/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scared 2 Love]]></title>
+            <link>https://www.music-flo.com/detail/album/eaannoiaa/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaannoiaa/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edihdeznz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#134215d2c07#head--> 2KBABY <!--fragment#134215d2c07#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/311/227/11/04/411227311_63dce4d0_o.jpg?1675420881529/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sad in Hawaii]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaoyead/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaoyead/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edenhzioi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#140b4a22e10#head--> Claire Rosinkranz <!--fragment#140b4a22e10#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/410/179/11/04/411179410_63dc6301_o.jpg?1675387650618/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Howling at the Moon]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaalaode/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaalaode/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hddzoahe/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#17d874c98eb#head--> Mike Posner <!--fragment#17d874c98eb#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edenzloda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#c615f11337#head--> salem ilese <!--fragment#c615f11337#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/704/151/11/04/411151704_63d448cf_o.jpg?1674856656275/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My 21st Century Blues]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaayiiye/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaayiiye/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/adehyoda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1bd819f7f9#head--> Raye <!--fragment#1bd819f7f9#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/394/193/11/04/411193394_63db8ecc_s.jpg?1675333326135/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's You (Duet)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaanahlhz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaanahlhz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edioyiylz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#149228d133f#head--> Ramzi <!--fragment#149228d133f#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdnnnehl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#6fcced937c#head--> 파랑망또 <!--fragment#6fcced937c#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/586/218/11/04/411218586_63dca1b0_s.jpg?1675403697971/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xena]]></title>
+            <link>https://www.music-flo.com/detail/album/eaandoziy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaandoziy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hddyeaio/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#10769d37834#head--> Skrillex <!--fragment#10769d37834#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edllhlaee/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#737f17af8f#head--> Nai Barghouti <!--fragment#737f17af8f#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/639/207/11/04/411207639_63dc14f1_o.jpg?1675367665371/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[W / X / Y - From THE FIRST TAKE]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeddie/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeddie/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edehealno/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#47c48bd063#head--> Tani Yuuki <!--fragment#47c48bd063#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/034/140/11/04/411140034_63e2fa99_s.jpg?1675819675349/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADICA]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazeoyi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazeoyi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edenzllna/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#103440d52fe#head--> ØZI <!--fragment#103440d52fe#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/793/164/11/04/411164793_63d7294e_s.jpg?1675045201538/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Champions]]></title>
+            <link>https://www.music-flo.com/detail/album/eaannezyh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaannezyh/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdinyiya/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8d2e737ac8#head--> NLE Choppa <!--fragment#8d2e737ac8#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/698/224/11/04/411224698_63dcc527_o.jpg?1675412777730/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four Leaf Clover (From “Norah Jones is Playing Along” Podcast)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaoyeen/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaoyeen/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/iellh/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#13d6761d21#head--> Norah Jones <!--fragment#13d6761d21#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hddnndin/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#12e57faf56c#head--> Sasha Dobson <!--fragment#12e57faf56c#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/442/179/11/04/411179442_63dc6317_o.jpg?1675387672777/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blueberry Pancakes]]></title>
+            <link>https://www.music-flo.com/detail/album/eaannzyzd/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaannzyzd/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ediloozhd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7d8bcb78d#head--> Carlie Hanson <!--fragment#7d8bcb78d#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/960/226/11/04/411226960_63dcde39_o.jpg?1675419195596/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing But Mine]]></title>
+            <link>https://www.music-flo.com/detail/album/eaanlnizy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaanlnizy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnehoiy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8fba8f523d#head--> Billie Marten <!--fragment#8fba8f523d#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/369/252/11/04/411252369_63e0d244_o.jpg?1675678277039/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAD B!TCH]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazohdz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazohdz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdndzeal/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#98270dbdb8#head--> Anne-Marie <!--fragment#98270dbdb8#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/806/167/11/04/411167806_63dd66ea_o.jpg?1675454187012/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mama's Eyes]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadyzyzi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadyzyzi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edzihznzn/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#124b8bda5b6#head--> MetteNarrative <!--fragment#124b8bda5b6#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edziydaao/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#f0e4527d42#head--> METTE <!--fragment#f0e4527d42#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/963/096/11/04/411096963_63c9836f_o.jpg?1674150768188/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Same Thing]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaozinl/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaozinl/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnezeie/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#1416d9cd64a#head--> Danyka Nadeau <!--fragment#1416d9cd64a#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/ealzh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#79c965db2e#head--> Direct <!--fragment#79c965db2e#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/325/176/11/04/411176325_63d9473d_s.jpg?1675183934835/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part Time Lover]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadyiinz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadyiinz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeillyzn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#69796b858b#head--> JOP <!--fragment#69796b858b#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/326/093/11/04/411093326_63e1c12c_o.jpg?1675739436546/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[essence]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaahyoyd/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaahyoyd/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnzyyda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10fcf425652#head--> MIKNNA <!--fragment#10fcf425652#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/790/189/11/04/411189790_63da6ee3_o.jpg?1675259620803/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[When It's Just YOU & I (Deluxe)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaananyii/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaananyii/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeinndhd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1786bd84fce#head--> The Millennial Club <!--fragment#1786bd84fce#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/933/212/11/04/411212933_63dc7e29_s.jpg?1675394602003/dims/resize/500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[life in a locker]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaodaiz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaodaiz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ededhzzia/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#ee605aae6b#head--> Powfu <!--fragment#ee605aae6b#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edeaeaiyl/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#77ac98eb53#head--> Jomie <!--fragment#77ac98eb53#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="2" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edehnidon/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#d22b8575fe#head--> Skinny Atlas <!--fragment#d22b8575fe#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/136/170/11/04/411170136_63d82183_o.jpg?1675108739462/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UFO]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazeiid/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazeiid/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edihdlzhd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#63cd08c98a#head--> Olivia Dean <!--fragment#63cd08c98a#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/330/164/11/04/411164330_63d96799_o.jpg?1675192217767/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do U Really?]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaoyioy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaoyioy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeilodln/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#98e82a6038#head--> Lyn Lapid <!--fragment#98e82a6038#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdneenoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1316864935b#head--> Ruth B. <!--fragment#1316864935b#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/379/179/11/04/411179379_63dc62c8_o.jpg?1675387593469/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taking Back My Heart]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaayoziz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaayoziz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edenainoy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#160a7bdc114#head--> Anthony Lazaro <!--fragment#160a7bdc114#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/636/197/11/04/411197636_63db1703_o.jpg?1675302660940/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[deadly ever after]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazyyln/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazyyln/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/yzoozlo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#764dd2498#head--> Ethan Bortnick <!--fragment#764dd2498#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/952/169/11/04/411169952_63d81340_o.jpg?1675105088628/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maybe I’m Lonely]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaheddd/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaheddd/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edillldii/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5b3ab5a491#head--> Rachel Chinouriri <!--fragment#5b3ab5a491#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/000/184/11/04/411184000_63e200cd_o.jpg?1675755727800/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[If You’re Gonna Break My Heart]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazyzai/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazyzai/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edioyelel/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#46853477b1#head--> Inhaler <!--fragment#46853477b1#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/613/169/11/04/411169613_63daac48_o.jpg?1675275337031/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chale]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaodaih/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaodaih/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdiaohho/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13c3bb5d179#head--> Sho Madjozi <!--fragment#13c3bb5d179#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/138/170/11/04/411170138_63d82180_o.jpg?1675108736890/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wake Me Up When It's Over]]></title>
+            <link>https://www.music-flo.com/detail/album/eaanneodl/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaanneodl/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ediyzneyy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#58b8ffcb8c#head--> Clay "Krucial" Perry III <!--fragment#58b8ffcb8c#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/705/224/11/04/411224705_63dcc52c_s.jpg?1675412782825/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Way It Was Before]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaayylnz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaayylnz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnzioal/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#cfb6cea33d#head--> Johnny Stimson <!--fragment#cfb6cea33d#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/526/199/11/04/411199526_63db6392_s.jpg?1675322260258/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Reservations]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaayhlhn/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaayhlhn/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hddynnin/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#8ad7d829fd#head--> Jesse Barrera <!--fragment#8ad7d829fd#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/582/198/11/04/411198582_63db5199_s.jpg?1675317661072/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Highlife]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaoihzh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaoihzh/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hddzlley/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#af053d12a4#head--> Logic <!--fragment#af053d12a4#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/868/173/11/04/411173868_63d8fa0d_o.jpg?1675164174991/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moderación (Con Camilo)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaandooi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaandooi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edizinhne/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#cacee7df6c#head--> JP Saxe <!--fragment#cacee7df6c#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdanolny/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#946bb78391#head--> Camilo <!--fragment#946bb78391#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/773/120/11/04/411120773_63cb3bb4_o.jpg?1674263476994/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Perfect For You]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaoezyy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaoezyy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edezaloho/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#a74c6cf30e#head--> Peach PRC <!--fragment#a74c6cf30e#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/699/174/11/04/411174699_63dbc470_o.jpg?1675347056941/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekends]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaoyena/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaoyena/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnlezez/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#17c787932f3#head--> Jonas Blue <!--fragment#17c787932f3#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdnaazod/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#c79f0bf87e#head--> Felix Jaehn <!--fragment#c79f0bf87e#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/421/179/11/04/411179421_63dc62e5_o.jpg?1675387621585/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diferente ft CNCO]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadleane/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadleane/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hddolnoz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#122967c6d20#head--> Steve Aoki <!--fragment#122967c6d20#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdnzyezl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#6ff865a6ef#head--> CNCO <!--fragment#6ff865a6ef#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/124/054/11/04/411054124_63bfc73f_o.jpg?1673512768001/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miss Her]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaoheze/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaoheze/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdndhih/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#44906db1f4#head--> Maximillian <!--fragment#44906db1f4#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdidlaoz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#79f29ac1ea#head--> Nicklas Sahl <!--fragment#79f29ac1ea#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/464/178/11/04/411178464_63d9ae22_s.jpg?1675210275588/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[portal]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaahenae/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaahenae/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeaeelli/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ad97613393#head--> daine <!--fragment#ad97613393#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/214/184/11/04/411184214_63da3c92_o.jpg?1675246739316/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BOMB]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaadehnz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaadehnz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdindoel/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#978cf324a5#head--> bLAck pARty <!--fragment#978cf324a5#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/aaendnna/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#d100fb18d2#head--> Latto <!--fragment#d100fb18d2#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/826/104/11/04/411104826_63c88928_o.jpg?1674086696922/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Imposter Syndrome]]></title>
+            <link>https://www.music-flo.com/detail/album/eadyzhazy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eadyzhazy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnodayo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#c3668ca27d#head--> Girli <!--fragment#c3668ca27d#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/169/968/10/04/410968169_63b59d20_s.jpg?1672846628754/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[16CHOPPA]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaaaoyz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaaaoyz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/adeizzlz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#13e6d1336f3#head--> Skillibeng <!--fragment#13e6d1336f3#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edelihhdn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#a03d7ebd80#head--> Nardo Wick <!--fragment#a03d7ebd80#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/796/111/11/04/411111796_63cad61b_o.jpg?1674237467406/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[drunk text]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadlynlz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadlynlz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edloaieza/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#16fa6445c#head--> Henry Moodie <!--fragment#16fa6445c#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/256/059/11/04/411059256_63bf0916_o.jpg?1673464087111/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Voices (feat. Oliver Tree)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaezehe/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaezehe/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnliely/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#746af6c475#head--> KSI <!--fragment#746af6c475#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdnheizi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#51159eadce#head--> Oliver Tree <!--fragment#51159eadce#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/484/146/11/04/411146484_63d33c9d_o.jpg?1674787999012/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tally]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanooel/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanooel/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeohidzy/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#143e33e700d#head--> midwxst <!--fragment#143e33e700d#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdayalhz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#16e84f905d6#head--> Denzel Curry <!--fragment#16e84f905d6#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/745/127/11/04/411127745_63d2093c_o.jpg?1674709308865/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[God Save The Teen]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadolhdh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadolhdh/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdandiho/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#217bd832e6#head--> MOD SUN <!--fragment#217bd832e6#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/808/075/11/04/411075808_63c09428_o.jpg?1673565225189/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Secret Verses]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaayohhd/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaayohhd/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ededylyin/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#2d1792d8c9#head--> Cam MacLean <!--fragment#2d1792d8c9#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/880/197/11/04/411197880_63db305c_o.jpg?1675309149836/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elephant In The Room]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaehyon/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaehyon/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edlzhziyh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#139537820a0#head--> Rowan Drake <!--fragment#139537820a0#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/972/148/11/04/411148972_63d3aa9e_o.jpg?1674816159068/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STRAWBERRY LOUIS VUITTON]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazdezo/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazdezo/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdahinlo/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#1ee17f1a31#head--> Vic Mensa <!--fragment#1ee17f1a31#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdadhlhn/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#82b36b1f44#head--> Thundercat <!--fragment#82b36b1f44#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="2" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edioyznoo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#38053faae1#head--> Maeta <!--fragment#38053faae1#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/467/160/11/04/411160467_63d5c788_o.jpg?1674954633380/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATUM - Act I & II]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaalnihy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaalnihy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/iline/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#17e5fa3871e#head--> The Smashing Pumpkins <!--fragment#17e5fa3871e#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/389/152/11/04/411152389_63d4719f_s.jpg?1674867105486/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[flounder]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanoyoo/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanoyoo/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edlolnhyz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#3be57f904a#head--> quinnie <!--fragment#3be57f904a#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/977/127/11/04/411127977_63cedeea_o.jpg?1674501866803/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Own Worst Enemy]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaonhey/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaonhey/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/adeyyidh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#74147c4823#head--> Chymes <!--fragment#74147c4823#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/849/172/11/04/411172849_63d8cbca_o.jpg?1675152330437/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MOTOWN]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanheyh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanheyh/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edlnioold/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#3974e3b59f#head--> KayCyy <!--fragment#3974e3b59f#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edeaeadya/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7a1b6816fb#head--> BabyTron <!--fragment#7a1b6816fb#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/498/128/11/04/411128498_63cf06c0_o.jpg?1674512064980/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wishlist (Spencer Ramsay DnB Flip)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazdezd/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazdezd/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnaazod/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1f4d39c89d#head--> Felix Jaehn <!--fragment#1f4d39c89d#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/460/160/11/04/411160460_63d5c783_o.jpg?1674954627865/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[You Only Love Me]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaehhed/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaehhed/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdaiioih/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#130dea7e043#head--> Rita Ora <!--fragment#130dea7e043#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/840/148/11/04/411148840_63de1604_s.jpg?1675499015297/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thomas Bangalter: Mythologies - L’Accouchement]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeynnn/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeynnn/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdndiiyi/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#179a08ac65a#head--> Thomas Bangalter <!--fragment#179a08ac65a#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hddneeyl/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#138d2068c4f#head--> Orchestre National Bordeaux Aquitaine <!--fragment#138d2068c4f#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="2" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edldieadh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#11c22c32bab#head--> Romain Dumas <!--fragment#11c22c32bab#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/222/149/11/04/411149222_63d3af54_s.jpg?1674817371009/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Here]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadlyano/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadlyano/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnzonny/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#dc4503ef28#head--> Tom Grennan <!--fragment#dc4503ef28#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/127/059/11/04/411059127_63befc74_o.jpg?1673460852968/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Getting Older]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeholy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeholy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hddlzliy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#163b80dddee#head--> Adam Lambert <!--fragment#163b80dddee#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/759/148/11/04/411148759_63d3a54f_s.jpg?1674814803880/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AudioLust & HigherLove]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaailoiz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaailoiz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnnnndn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#14b0a649de0#head--> SG Lewis <!--fragment#14b0a649de0#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/736/135/11/04/411135736_63d3f6c6_o.jpg?1674835655488/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blood And Butter]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaalllda/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaalllda/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdlzzyd/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ab8fe2da79#head--> Caroline Polachek <!--fragment#ab8fe2da79#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/501/155/11/04/411155501_63d4e68e_s.jpg?1674897040757/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Been Thinking]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaandiee/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaandiee/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeohoiel/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b0b0d32249#head--> Tyla <!--fragment#b0b0d32249#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/344/120/11/04/411120344_63cb1eea_o.jpg?1674256107038/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ME]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaznznd/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaznznd/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdalihaa/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#69e75beacb#head--> Meg Myers <!--fragment#69e75beacb#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/620/162/11/04/411162620_63d60c67_o.jpg?1674972264106/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conceited]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaadiyoa/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaadiyoa/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edizilyyl/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#ea829c8e20#head--> Flo Milli <!--fragment#ea829c8e20#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/ededdahhz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#df65352d7d#head--> Lola Brooke <!--fragment#df65352d7d#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/971/103/11/04/411103971_63c8691f_o.jpg?1674078496321/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Good Time]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaazinai/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaazinai/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/adeyoyyo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1650ebba3be#head--> Alex Lahey <!--fragment#1650ebba3be#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/213/163/11/04/411163213_63d8d34c_o.jpg?1675154252881/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mine]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaehdzh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaehdzh/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edlanolli/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9118cd71f1#head--> WanMor <!--fragment#9118cd71f1#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/068/148/11/04/411148068_63d382d1_o.jpg?1674805971016/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do You Like Me?]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeaedh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeaedh/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/nddnzzhz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#13f4c5093a#head--> Daniel Caesar <!--fragment#13f4c5093a#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/408/141/11/04/411141408_63d59bf5_o.jpg?1674943478533/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[in my ways]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadoznoa/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadoznoa/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ededhyyad/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#9955009c52#head--> King Isis <!--fragment#9955009c52#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/271/076/11/04/411076271_63c0b5b4_o.jpg?1673573813067/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PARALLEL PARALLEL]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeozlh/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeozlh/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/zehei/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#133cddd2804#head--> 동방신기 (TVXQ!) <!--fragment#133cddd2804#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/658/147/11/04/411147658_63d35cb8_o.jpg?1674796217455/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LLYLM]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanheyy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanheyy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/heoezod/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#10330c124d8#head--> ROSALÍA <!--fragment#10330c124d8#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/499/128/11/04/411128499_63cf06c3_o.jpg?1674512067656/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Good Care]]></title>
+            <link>https://www.music-flo.com/detail/album/eadzdleee/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eadzdleee/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeyneydo/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#132f7c2138b#head--> HYBS <!--fragment#132f7c2138b#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/nddeyooz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#36a7eaf6f0#head--> slchld <!--fragment#36a7eaf6f0#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="2" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edledlnla/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#e15dd90e72#head--> asiatic.wav <!--fragment#e15dd90e72#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/444/605/10/04/410605444_63d11935_o.jpg?1674647862579/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silent Running (feat. Adeleye Omotayo)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeyaoy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeyaoy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/iezne/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#bda1a3433f#head--> Gorillaz <!--fragment#bda1a3433f#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/179/149/11/04/411149179_63d3adfb_o.jpg?1674817021211/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Greng Jai Piece]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaazzol/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaazzol/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/adlyylyo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b5606776c1#head--> Phum Viphurit <!--fragment#b5606776c1#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/675/116/11/04/411116675_63d9191a_o.jpg?1675172124398/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fireflies]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaehyoi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaehyoi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeilloyy/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#2f6961c8ed#head--> Sara Kays <!--fragment#2f6961c8ed#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/973/148/11/04/411148973_63d3aa9e_o.jpg?1674816159013/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pray It Away]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanohyl/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanohyl/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeyazday/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#cf6d5370f8#head--> Chlöe <!--fragment#cf6d5370f8#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/895/127/11/04/411127895_63ced39b_o.jpg?1674498972084/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rumblah]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaenlod/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaenlod/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdaeyhdn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#99b598e1e9#head--> Gorgon City <!--fragment#99b598e1e9#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/570/142/11/04/411142570_63d393b4_o.jpg?1674810292738/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PANTIES Y BRASIERES]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaieain/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaieain/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/adeenhdo/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#e7fb2985b4#head--> Rauw Alejandro <!--fragment#e7fb2985b4#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hdddnodi/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#515a2ad4ff#head--> Daddy Yankee <!--fragment#515a2ad4ff#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/132/134/11/04/411134132_63d05960_o.jpg?1674598753120/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All the Colors of the Sky]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeolyz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeolyz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hnlhnyz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#b7433425bf#head--> Veronica Fusaro <!--fragment#b7433425bf#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/596/147/11/04/411147596_63d35267_o.jpg?1674793576609/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TRUSTFALL]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanohzo/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanohzo/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/aazye/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7eec108ce1#head--> P!nk <!--fragment#7eec108ce1#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/867/127/11/04/411127867_63ced0b7_o.jpg?1674498232195/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Stupid Heart]]></title>
+            <link>https://www.music-flo.com/detail/album/eadyayhhy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eadyayhhy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdanalie/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1473f365801#head--> Walk Off The Earth <!--fragment#1473f365801#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/889/919/10/04/410919889_639ac348_o.jpg?1671086921161/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The People's Champ]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaieean/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaieean/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnlhilz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#baf234b237#head--> Quinn XCII <!--fragment#baf234b237#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/412/134/11/04/411134412_63d404c9_o.jpg?1674839242015/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Body Better]]></title>
+            <link>https://www.music-flo.com/detail/album/eaadnzhdi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaadnzhdi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdidhohe/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#184d07756b0#head--> Maisie Peters <!--fragment#184d07756b0#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/803/026/11/04/411026803_63b70895_s.jpg?1672939672230/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[If You Don’t Know My Name]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaailzna/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaailzna/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/helelzo/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#116fe3134e2#head--> Bruno Martini <!--fragment#116fe3134e2#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/hddhozzl/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#160acbc7523#head--> Julian Marley <!--fragment#160acbc7523#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="2" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edzedalhz/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#1123feb557f#head--> Andrew Tosh <!--fragment#1123feb557f#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="3" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edlnhyoye/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#235e6ac3a3#head--> Mistaa Mike <!--fragment#235e6ac3a3#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/621/135/11/04/411135621_63d0d403_o.jpg?1674630147797/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LUV (I KNOW I WANT THIS FOR REAL)]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanohye/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanohye/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeaiohoo/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#e1bff195f#head--> Q <!--fragment#e1bff195f#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/894/127/11/04/411127894_63ced39b_o.jpg?1674498971975/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How To Drive]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaenldi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaenldi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ediloldee/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#1161d371db6#head--> Alexander 23 <!--fragment#1161d371db6#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/503/142/11/04/411142503_63d717bf_s.jpg?1675040703510/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Real Spring]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaellhi/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaellhi/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hddyeaio/track?sortType=POPULARITY&amp;roleType=ALL" class=""><!--fragment#16612e4f0b4#head--> Skrillex <!--fragment#16612e4f0b4#tail--></a></span><span data-v-5d316ab1="" artist="[object Object]" index="1" class="artist_link"><span data-v-5d316ab1="" class="artist_link_and">&amp;</span><a data-v-5d316ab1="" href="/detail/artist/edennaahz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#7d0416f549#head--> Bladee <!--fragment#7d0416f549#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/583/145/11/04/411145583_63d2d789_o.jpg?1674762121931/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sucka Or Sum]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaenlny/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaenlny/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdayayeh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#74ed001638#head--> Rae Sremmurd <!--fragment#74ed001638#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/529/142/11/04/411142529_63d457c3_o.jpg?1674860483816/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Found You EP]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaehyad/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaehyad/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edlenadaz/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#aa09417318#head--> Ewan Mainwood <!--fragment#aa09417318#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/910/148/11/04/411148910_63d3fb20_s.jpg?1674836771828/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken English]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaadlyzo/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaadlyzo/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edehnidzl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#ef1bbaa099#head--> Paravi <!--fragment#ef1bbaa099#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/967/105/11/04/411105967_63c8b32b_o.jpg?1674097451636/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gloria]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaiooaz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaiooaz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdaeozed/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#169e0363140#head--> Sam Smith <!--fragment#169e0363140#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/716/137/11/04/411137716_63d3a141_o.jpg?1674813762535/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Again]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaanohyz/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaanohyz/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/ediohhhnn/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#f1f46c659#head--> The Kid LAROI <!--fragment#f1f46c659#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/896/127/11/04/411127896_63ced39b_o.jpg?1674498972214/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don't Go Wasting Time]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaiheen/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaiheen/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnhieda/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#5111c6fa5e#head--> New Hope Club <!--fragment#5111c6fa5e#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/442/138/11/04/411138442_63d12bee_o.jpg?1674652655725/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diamonds & Dancefloors]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaedyon/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaedyon/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/hdnhhlyh/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#18478389c98#head--> Ava Max <!--fragment#18478389c98#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/972/140/11/04/411140972_63d216ee_o.jpg?1674712814814/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Landslide]]></title>
+            <link>https://www.music-flo.com/detail/album/eaaaeazoy/albumtrack</link>
+            <guid>https://www.music-flo.com/detail/album/eaaaeazoy/albumtrack</guid>
+            <pubDate>Wed, 08 Feb 2023 19:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-5d316ab1="" artist="[object Object]" index="0" class="artist_link"><!----><a data-v-5d316ab1="" href="/detail/artist/edeeezeyl/track?sortType=POPULARITY&amp;roleType=ALL" class="last"><!--fragment#4392dd21dc#head--> Armen Paul <!--fragment#4392dd21dc#tail--></a></span>]]></content:encoded>
+            <enclosure url="https://cdn.music-flo.com/image/v2/album/679/141/11/04/411141679_63d1de30_o.jpg?1674698288738/dims/resize/500x500/quality/90" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
